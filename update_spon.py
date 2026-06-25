@@ -3,7 +3,7 @@ import random
 import requests
 
 # 구글 앱스 스크립트 웹 앱 URL
-GAS_WEBAPP_URL = "https://script.google.com/macros/s/AKfycbwm6k5GOONXnDsf9GnHBzB-Jf4ut_fpozA4tP1MqZmvsYFq0isiXjpUJWGyqWlf9J_q0g/exec"
+GAS_WEBAPP_URL = "https://script.google.com/macros/s/AKfycbxE2AsR5cigM-Ua_YzITB32nwQj6Fg1RyEROe_oc-v_gyJ9f4aMZR2qF9jACpNM_jMc0A/exec"
 
 print(">> 구글 시트로부터 스폰 API 대상 목록을 조회하는 중...")
 
